@@ -1,5 +1,0 @@
-1. start 3.txt
-
-2. this is branch "develop"
-2/ this is branch dev1
-Neeeeeeeeewwwww   merging 
